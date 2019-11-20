@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/golem1_hurt_000"
+        android:duration="50"/>
+    <item android:drawable="@drawable/golem1_hurt_001"
+        android:duration="50"/>
+    <item android:drawable="@drawable/golem1_hurt_002"
+        android:duration="50"/>
+    <item android:drawable="@drawable/golem1_hurt_003"
+        android:duration="50"/>
+    <item android:drawable="@drawable/golem1_hurt_004"
+        android:duration="50"/>
+    <item android:drawable="@drawable/golem1_hurt_005"
+        android:duration="50"/>
+    <item android:drawable="@drawable/golem1_hurt_006"
+        android:duration="50"/>
+    <item android:drawable="@drawable/golem1_hurt_007"
+        android:duration="50"/>
+    <item android:drawable="@drawable/golem1_hurt_008"
+        android:duration="50"/>
+    <item android:drawable="@drawable/golem1_hurt_009"
+        android:duration="50"/>
+    <item android:drawable="@drawable/golem1_hurt_010"
+        android:duration="50"/>
+    <item android:drawable="@drawable/golem1_hurt_011"
+        android:duration="50"/>
+
+
+</animation-list>
